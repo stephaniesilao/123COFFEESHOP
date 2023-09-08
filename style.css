@@ -14,7 +14,7 @@
     display:flex;
     align-items: center;
     justify-content: space-between;
-    padding: 10px;
+    padding-top:1px;
 }
 .nav-bar .title{
     color:#fff;
